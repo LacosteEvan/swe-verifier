@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "observatory": {
+      "command": "observatory",
+      "args": ["mcp"],
+      "env": { "OBSERVATORY_DB_URL": "${OBSERVATORY_DB_URL}" }
+    },
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/",
+      "headers": { "Authorization": "Bearer ${GITHUB_PAT}" }
+    },
+    "huggingface": {
+      "type": "http",
+      "url": "https://huggingface.co/mcp",
+      "headers": { "Authorization": "Bearer ${HF_TOKEN}" }
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    }
+  }
+}

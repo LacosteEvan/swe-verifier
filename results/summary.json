@@ -1,0 +1,49 @@
+{
+  "issues": 100,
+  "samples": 5,
+  "mixed_issues": 32,
+  "resolved_by_k": {
+    "0": 43,
+    "1": 5,
+    "2": 8,
+    "3": 8,
+    "4": 11,
+    "5": 25
+  },
+  "agents": {
+    "Qwen3-Coder 30B-A3B": {
+      "resolved": 0.428,
+      "cost": 0.029938481540000002,
+      "cost_per_issue": 0.1496924077
+    },
+    "Claude Haiku 5.5": {
+      "resolved": 0.69,
+      "cost": 0.00742484,
+      "cost_per_issue": 0.00742484
+    }
+  },
+  "judge_cost_per_issue": {
+    "claude-haiku-5.5": 0.0035461399999999997,
+    "claude-sonnet-5.5": 0.06694800000000001
+  },
+  "best": "LLM judge: claude-sonnet-5.5",
+  "share_of_oracle_gain": 1.0,
+  "contamination": {
+    "anthropic/claude-haiku-5.5": {
+      "cites": 92,
+      "reviews": 443,
+      "close": 0.8376363636363636,
+      "apart": 0.6916260162601625
+    },
+    "anthropic/claude-sonnet-5.5": {
+      "cites": 362,
+      "reviews": 443,
+      "close": 0.9229090909090909,
+      "apart": 0.829268292682927
+    }
+  },
+  "spent": {
+    "generation": 15.71172477,
+    "judges": 7.0494140000000005
+  }
+}

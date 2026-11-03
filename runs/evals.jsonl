@@ -1,0 +1,600 @@
+{"instance_id": "django__django-15814", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-13401", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [32, 0], "error": null}
+{"instance_id": "django__django-15814", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-13401", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [32, 0], "error": null}
+{"instance_id": "django__django-13401", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [32, 0], "error": null}
+{"instance_id": "django__django-13401", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [32, 0], "error": null}
+{"instance_id": "django__django-13401", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [32, 0], "error": null}
+{"instance_id": "astropy__astropy-14995", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [179, 0], "error": null}
+{"instance_id": "django__django-13401", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [32, 0], "error": null}
+{"instance_id": "django__django-15814", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "astropy__astropy-14995", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [179, 0], "error": null}
+{"instance_id": "django__django-15814", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [29, 0], "error": null}
+{"instance_id": "astropy__astropy-14995", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [179, 0], "error": null}
+{"instance_id": "astropy__astropy-14995", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [179, 0], "error": null}
+{"instance_id": "django__django-15814", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-15814", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [29, 0], "error": null}
+{"instance_id": "astropy__astropy-14995", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [179, 0], "error": null}
+{"instance_id": "django__django-12308", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-12308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-12308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-12308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [20, 0], "error": null}
+{"instance_id": "astropy__astropy-14995", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [179, 0], "error": null}
+{"instance_id": "django__django-12308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-12308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-7738", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sphinx-doc__sphinx-7738", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [1, 0], "p2p": [29, 1], "error": null}
+{"instance_id": "sphinx-doc__sphinx-7738", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [30, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-7738", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [30, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-7738", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [1, 0], "p2p": [29, 1], "error": null}
+{"instance_id": "sphinx-doc__sphinx-7738", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [1, 0], "p2p": [29, 1], "error": null}
+{"instance_id": "django__django-15996", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [51, 0], "error": null}
+{"instance_id": "django__django-15996", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [51, 0], "error": null}
+{"instance_id": "django__django-15996", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [51, 0], "error": null}
+{"instance_id": "django__django-15996", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [51, 0], "error": null}
+{"instance_id": "django__django-15996", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [51, 0], "error": null}
+{"instance_id": "sympy__sympy-20154", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "django__django-15996", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [51, 0], "error": null}
+{"instance_id": "sympy__sympy-20154", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "sympy__sympy-20154", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "sympy__sympy-20154", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "sympy__sympy-20154", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "sympy__sympy-20154", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "sympy__sympy-21171", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [152, 0], "error": null}
+{"instance_id": "sympy__sympy-21171", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [152, 0], "error": null}
+{"instance_id": "sympy__sympy-21171", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [152, 0], "error": null}
+{"instance_id": "sympy__sympy-21171", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [152, 0], "error": null}
+{"instance_id": "sympy__sympy-21171", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [152, 0], "error": null}
+{"instance_id": "sympy__sympy-21171", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [152, 0], "error": null}
+{"instance_id": "django__django-13551", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [56, 0], "error": null}
+{"instance_id": "django__django-13551", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [56, 0], "error": null}
+{"instance_id": "django__django-13551", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [56, 0], "error": null}
+{"instance_id": "django__django-13551", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [56, 0], "error": null}
+{"instance_id": "django__django-13551", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [56, 0], "error": null}
+{"instance_id": "django__django-15252", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [34, 0], "error": null}
+{"instance_id": "django__django-15252", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [34, 0], "error": null}
+{"instance_id": "django__django-13551", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [56, 0], "error": null}
+{"instance_id": "django__django-15252", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [34, 0], "error": null}
+{"instance_id": "django__django-15252", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [34, 0], "error": null}
+{"instance_id": "django__django-15851", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-15252", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [34, 0], "error": null}
+{"instance_id": "django__django-15851", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-15851", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-15252", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [34, 0], "error": null}
+{"instance_id": "django__django-15851", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-15851", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-15851", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "pallets__flask-5063", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [54, 0], "error": null}
+{"instance_id": "pallets__flask-5063", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [54, 0], "error": null}
+{"instance_id": "pallets__flask-5063", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [52, 2], "error": null}
+{"instance_id": "pallets__flask-5063", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [52, 2], "error": null}
+{"instance_id": "pallets__flask-5063", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [52, 2], "error": null}
+{"instance_id": "pytest-dev__pytest-7373", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [81, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7373", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [81, 0], "error": null}
+{"instance_id": "pallets__flask-5063", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [52, 2], "error": null}
+{"instance_id": "pytest-dev__pytest-7373", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [81, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7373", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [81, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7373", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [81, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7373", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "sympy__sympy-23117", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-23117", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-23117", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [0, 3], "error": null}
+{"instance_id": "sympy__sympy-13895", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-13895", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23117", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-23117", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-23117", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-13895", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-13895", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "sympy__sympy-13895", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [1, 1], "p2p": [80, 2], "error": null}
+{"instance_id": "sympy__sympy-13895", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "pydata__xarray-4094", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [862, 0], "error": null}
+{"instance_id": "pydata__xarray-4094", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [862, 0], "error": null}
+{"instance_id": "pydata__xarray-4094", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [862, 0], "error": null}
+{"instance_id": "pydata__xarray-4094", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [862, 0], "error": null}
+{"instance_id": "pydata__xarray-4094", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [862, 0], "error": null}
+{"instance_id": "pydata__xarray-4094", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [862, 0], "error": null}
+{"instance_id": "django__django-11133", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [64, 0], "error": null}
+{"instance_id": "django__django-11133", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [64, 0], "error": null}
+{"instance_id": "django__django-11133", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [64, 0], "error": null}
+{"instance_id": "django__django-11133", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [64, 0], "error": null}
+{"instance_id": "django__django-11133", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [64, 0], "error": null}
+{"instance_id": "django__django-11133", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [64, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-11281", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-11281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [0, 43], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-11281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-11281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [0, 43], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-11281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [1, 1], "p2p": [42, 1], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-11281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8627", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [17, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8627", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [17, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8627", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [17, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8627", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [17, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8627", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sphinx-doc__sphinx-8627", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [17, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-26020", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [48, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-26020", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [48, 0], "error": null}
+{"instance_id": "django__django-14787", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-26020", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [48, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-26020", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [48, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-26020", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [48, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-26020", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [48, 0], "error": null}
+{"instance_id": "django__django-14787", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-14787", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-14787", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [1, 0], "p2p": [19, 1], "error": null}
+{"instance_id": "django__django-14787", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "django__django-14787", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [20, 0], "error": null}
+{"instance_id": "mwaskom__seaborn-2848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "mwaskom__seaborn-2848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [50, 0], "error": null}
+{"instance_id": "mwaskom__seaborn-2848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [50, 0], "error": null}
+{"instance_id": "mwaskom__seaborn-2848", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [50, 0], "error": null}
+{"instance_id": "mwaskom__seaborn-2848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [50, 0], "error": null}
+{"instance_id": "mwaskom__seaborn-2848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [50, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23563", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [136, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23563", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [136, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23563", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [136, 0], "error": null}
+{"instance_id": "django__django-16527", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16527", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23563", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [136, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23563", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [136, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23563", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [136, 0], "error": null}
+{"instance_id": "django__django-16527", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16527", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16527", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16527", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-13028", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [276, 0], "error": null}
+{"instance_id": "django__django-13028", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [276, 0], "error": null}
+{"instance_id": "django__django-13028", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [276, 0], "error": null}
+{"instance_id": "django__django-13028", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [276, 0], "error": null}
+{"instance_id": "django__django-14752", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [15, 0], "error": null}
+{"instance_id": "django__django-14752", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [15, 0], "error": null}
+{"instance_id": "django__django-14752", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [15, 0], "error": null}
+{"instance_id": "django__django-14752", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-14752", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [15, 0], "error": null}
+{"instance_id": "django__django-13028", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [276, 0], "error": null}
+{"instance_id": "django__django-13028", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [276, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10297", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [28, 0], "error": null}
+{"instance_id": "django__django-14752", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [15, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10297", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [28, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10297", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [28, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10297", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [28, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10297", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [28, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10297", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [28, 0], "error": null}
+{"instance_id": "django__django-16873", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [12, 0], "error": null}
+{"instance_id": "django__django-16873", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [12, 0], "error": null}
+{"instance_id": "django__django-16873", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [12, 0], "error": null}
+{"instance_id": "django__django-16873", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [12, 0], "error": null}
+{"instance_id": "django__django-16873", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [12, 0], "error": null}
+{"instance_id": "django__django-16873", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [12, 0], "error": null}
+{"instance_id": "sympy__sympy-24909", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-24909", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-24909", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-24909", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-24909", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-24909", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-23262", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [61, 0], "error": null}
+{"instance_id": "sympy__sympy-23262", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23262", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23262", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23262", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23262", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [61, 0], "error": null}
+{"instance_id": "django__django-14730", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-14730", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [119, 0], "error": null}
+{"instance_id": "django__django-14730", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [119, 0], "error": null}
+{"instance_id": "django__django-14730", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [119, 0], "error": null}
+{"instance_id": "django__django-14730", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "django__django-14730", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-13768", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [18, 0], "error": null}
+{"instance_id": "django__django-13768", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [18, 0], "error": null}
+{"instance_id": "django__django-13768", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [18, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-11143", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [114, 0], "error": null}
+{"instance_id": "django__django-13768", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [18, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-11143", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [114, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-11143", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [114, 0], "error": null}
+{"instance_id": "django__django-13768", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [18, 0], "error": null}
+{"instance_id": "django__django-13768", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [18, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-11143", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [114, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-11143", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [114, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-11143", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [114, 0], "error": null}
+{"instance_id": "django__django-14017", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [147, 0], "error": null}
+{"instance_id": "django__django-14017", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-14017", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [147, 0], "error": null}
+{"instance_id": "django__django-14017", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [147, 0], "error": null}
+{"instance_id": "django__django-14017", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [147, 0], "error": null}
+{"instance_id": "django__django-14017", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [1, 1], "p2p": [147, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25332", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [181, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25332", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [180, 1], "error": null}
+{"instance_id": "matplotlib__matplotlib-25332", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [181, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25332", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [181, 0], "error": null}
+{"instance_id": "sympy__sympy-20049", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [4, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25332", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [181, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25332", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [181, 0], "error": null}
+{"instance_id": "sympy__sympy-20049", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 4], "p2p": [8, 1], "error": null}
+{"instance_id": "sympy__sympy-20049", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 4], "p2p": [7, 2], "error": null}
+{"instance_id": "sympy__sympy-20049", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 4], "p2p": [7, 2], "error": null}
+{"instance_id": "sympy__sympy-20049", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 4], "p2p": [7, 2], "error": null}
+{"instance_id": "sympy__sympy-20049", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 4], "p2p": [7, 2], "error": null}
+{"instance_id": "sympy__sympy-21614", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "sympy__sympy-21614", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "sympy__sympy-21614", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "sympy__sympy-21614", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "sympy__sympy-21614", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [6, 0], "error": null}
+{"instance_id": "sympy__sympy-21614", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8474", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 4], "p2p": [436, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8474", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 4], "p2p": [436, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8474", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 4], "p2p": [436, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8474", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 4], "p2p": [436, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8474", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 4], "p2p": [436, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8474", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 4], "p2p": [436, 0], "error": null}
+{"instance_id": "sympy__sympy-23191", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-23191", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23191", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23191", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-23191", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [3, 0], "error": null}
+{"instance_id": "sympy__sympy-23191", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [2, 1], "error": null}
+{"instance_id": "sympy__sympy-22714", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [11, 0], "error": null}
+{"instance_id": "sympy__sympy-22714", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [11, 0], "error": null}
+{"instance_id": "sympy__sympy-22714", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [11, 0], "error": null}
+{"instance_id": "sympy__sympy-22714", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [11, 0], "error": null}
+{"instance_id": "sympy__sympy-22714", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [11, 0], "error": null}
+{"instance_id": "sympy__sympy-22714", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [11, 0], "error": null}
+{"instance_id": "django__django-16400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "astropy__astropy-14365", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "astropy__astropy-14365", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "astropy__astropy-14365", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "astropy__astropy-14365", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "astropy__astropy-14365", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [3, 5], "error": null}
+{"instance_id": "django__django-16400", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [63, 0], "error": null}
+{"instance_id": "astropy__astropy-14365", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-16400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [63, 0], "error": null}
+{"instance_id": "django__django-16400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [63, 0], "error": null}
+{"instance_id": "django__django-16400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "django__django-16400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [63, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-24149", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [767, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-24149", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [767, 0], "error": null}
+{"instance_id": "sympy__sympy-18835", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [41, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-24149", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [767, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-24149", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [767, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-24149", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [767, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-24149", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [767, 0], "error": null}
+{"instance_id": "sympy__sympy-18835", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [41, 0], "error": null}
+{"instance_id": "sympy__sympy-18835", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [41, 0], "error": null}
+{"instance_id": "sympy__sympy-18835", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [41, 0], "error": null}
+{"instance_id": "sympy__sympy-18835", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [41, 0], "error": null}
+{"instance_id": "sympy__sympy-18835", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [41, 0], "error": null}
+{"instance_id": "django__django-15400", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [1, 1], "p2p": [62, 0], "error": null}
+{"instance_id": "django__django-15400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [62, 0], "error": null}
+{"instance_id": "django__django-15400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "django__django-15400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [62, 0], "error": null}
+{"instance_id": "django__django-15400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [1, 1], "p2p": [62, 0], "error": null}
+{"instance_id": "django__django-15400", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [1, 1], "p2p": [62, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-11445", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-11445", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-11445", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-11445", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-11445", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-11445", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-12708", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [101, 0], "error": null}
+{"instance_id": "django__django-12708", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [101, 0], "error": null}
+{"instance_id": "django__django-12708", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [101, 0], "error": null}
+{"instance_id": "django__django-12708", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [101, 0], "error": null}
+{"instance_id": "django__django-11999", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [30, 0], "error": null}
+{"instance_id": "django__django-12708", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [101, 0], "error": null}
+{"instance_id": "django__django-12708", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [101, 0], "error": null}
+{"instance_id": "django__django-11999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [30, 0], "error": null}
+{"instance_id": "django__django-11999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [30, 0], "error": null}
+{"instance_id": "django__django-11999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [30, 0], "error": null}
+{"instance_id": "django__django-11999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [30, 0], "error": null}
+{"instance_id": "django__django-11999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [30, 0], "error": null}
+{"instance_id": "django__django-11179", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "django__django-11179", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "django__django-11179", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-7080", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-11179", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "django__django-11179", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "django__django-11179", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [40, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-7080", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-7080", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-7080", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-7080", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "pylint-dev__pylint-7080", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-20639", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [139, 0], "error": null}
+{"instance_id": "sympy__sympy-20639", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [1, 1], "p2p": [138, 1], "error": null}
+{"instance_id": "sympy__sympy-20639", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [1, 1], "p2p": [138, 1], "error": null}
+{"instance_id": "sympy__sympy-20639", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-20639", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [1, 1], "p2p": [138, 1], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-13241", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [54, 0], "error": null}
+{"instance_id": "sympy__sympy-20639", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [1, 1], "p2p": [138, 1], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-13241", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [54, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-13241", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [54, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-13241", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [54, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-13241", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [54, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-13241", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [54, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-8906", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [84, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-8906", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [84, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-8906", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [84, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-8906", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [84, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-8906", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [84, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-8906", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [84, 0], "error": null}
+{"instance_id": "django__django-17051", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [5, 0], "p2p": [39, 0], "error": null}
+{"instance_id": "django__django-17051", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 5], "p2p": [35, 4], "error": null}
+{"instance_id": "django__django-17051", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 5], "p2p": [39, 0], "error": null}
+{"instance_id": "django__django-17051", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 5], "p2p": [39, 0], "error": null}
+{"instance_id": "django__django-17051", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [5, 0], "p2p": [39, 0], "error": null}
+{"instance_id": "django__django-17051", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 5], "p2p": [36, 3], "error": null}
+{"instance_id": "sympy__sympy-17630", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [1, 1], "p2p": [19, 0], "error": null}
+{"instance_id": "sympy__sympy-17630", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [1, 1], "p2p": [19, 0], "error": null}
+{"instance_id": "sympy__sympy-17630", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [19, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-15512", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-17630", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [19, 0], "error": null}
+{"instance_id": "sympy__sympy-17630", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [1, 1], "p2p": [19, 0], "error": null}
+{"instance_id": "sympy__sympy-17630", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [19, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-15512", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-15512", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-11897", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "scikit-learn__scikit-learn-15512", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-11897", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-11897", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "scikit-learn__scikit-learn-15512", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-11897", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-11897", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [95, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-15512", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-11897", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-12747", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 3], "p2p": [49, 0], "error": null}
+{"instance_id": "django__django-12747", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 3], "p2p": [49, 0], "error": null}
+{"instance_id": "django__django-12747", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 3], "p2p": [49, 0], "error": null}
+{"instance_id": "django__django-12747", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-12747", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-15011", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [51, 2], "error": null}
+{"instance_id": "django__django-12747", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "sympy__sympy-15011", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "sympy__sympy-15011", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [53, 0], "error": null}
+{"instance_id": "sympy__sympy-15011", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "sympy__sympy-15011", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "sympy__sympy-15011", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [51, 2], "error": null}
+{"instance_id": "django__django-16046", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16046", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16046", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16046", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16046", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-16046", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-11848", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-11848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-11848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-11848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-11848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-11848", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-14999", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [113, 0], "error": null}
+{"instance_id": "django__django-14999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [113, 0], "error": null}
+{"instance_id": "django__django-14999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [113, 0], "error": null}
+{"instance_id": "django__django-14999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [113, 0], "error": null}
+{"instance_id": "django__django-14999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [113, 0], "error": null}
+{"instance_id": "django__django-14999", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [113, 0], "error": null}
+{"instance_id": "django__django-11422", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [46, 0], "error": null}
+{"instance_id": "django__django-11422", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [45, 1], "error": null}
+{"instance_id": "django__django-11422", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [45, 1], "error": null}
+{"instance_id": "sympy__sympy-16281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-11422", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [46, 0], "error": null}
+{"instance_id": "django__django-11422", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [46, 0], "error": null}
+{"instance_id": "django__django-11422", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [46, 0], "error": null}
+{"instance_id": "sympy__sympy-16281", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-16281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-16281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-16281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-15345", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [8, 0], "error": null}
+{"instance_id": "sympy__sympy-15345", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-16281", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-15345", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "sympy__sympy-15345", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-15345", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "sympy__sympy-15345", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [8, 0], "error": null}
+{"instance_id": "django__django-14915", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [23, 0], "error": null}
+{"instance_id": "django__django-14915", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [23, 0], "error": null}
+{"instance_id": "django__django-14915", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [23, 0], "error": null}
+{"instance_id": "django__django-14915", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [23, 0], "error": null}
+{"instance_id": "django__django-14915", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [23, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [1, 0], "p2p": [13, 1], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [13, 1], "error": null}
+{"instance_id": "django__django-14915", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [23, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [14, 0], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [1, 0], "p2p": [13, 1], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [1, 0], "p2p": [13, 1], "error": null}
+{"instance_id": "sphinx-doc__sphinx-8506", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [14, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10508", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [18, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10508", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [18, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10508", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [18, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10508", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [18, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10508", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [18, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-10508", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [18, 0], "error": null}
+{"instance_id": "sympy__sympy-14024", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [83, 0], "error": null}
+{"instance_id": "sympy__sympy-14024", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [83, 0], "error": null}
+{"instance_id": "sympy__sympy-14024", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [83, 0], "error": null}
+{"instance_id": "sympy__sympy-14024", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-14024", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-21847", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-21847", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-21847", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-21847", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-21847", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-14024", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-21847", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [9, 0], "error": null}
+{"instance_id": "django__django-12453", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [5, 0], "error": null}
+{"instance_id": "django__django-12453", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [5, 0], "error": null}
+{"instance_id": "django__django-12453", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [5, 0], "error": null}
+{"instance_id": "django__django-12453", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [5, 0], "error": null}
+{"instance_id": "django__django-12453", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [5, 0], "error": null}
+{"instance_id": "django__django-12453", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [5, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-18869", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 4], "p2p": [3, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-18869", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 4], "p2p": [3, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-18869", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 4], "p2p": [3, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-18869", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 4], "p2p": [3, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-18869", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 4], "p2p": [3, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-18869", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 4], "p2p": [3, 0], "error": null}
+{"instance_id": "django__django-12856", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-12856", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [3, 0], "p2p": [78, 0], "error": null}
+{"instance_id": "django__django-12856", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-12856", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 3], "p2p": [78, 0], "error": null}
+{"instance_id": "django__django-12856", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-12856", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-11039", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [88, 0], "error": null}
+{"instance_id": "django__django-11039", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-11039", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [84, 4], "error": null}
+{"instance_id": "django__django-11039", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [86, 2], "error": null}
+{"instance_id": "django__django-11039", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-11039", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [83, 5], "error": null}
+{"instance_id": "django__django-13590", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [145, 0], "error": null}
+{"instance_id": "django__django-13590", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [1, 0], "p2p": [140, 5], "error": null}
+{"instance_id": "django__django-13590", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [145, 0], "error": null}
+{"instance_id": "django__django-13590", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [1, 0], "p2p": [140, 5], "error": null}
+{"instance_id": "django__django-15347", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-13590", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [1, 0], "p2p": [140, 5], "error": null}
+{"instance_id": "django__django-13590", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [145, 0], "error": null}
+{"instance_id": "django__django-15347", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-15347", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-15347", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-15347", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "django__django-15347", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [29, 0], "error": null}
+{"instance_id": "sympy__sympy-21612", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [98, 0], "error": null}
+{"instance_id": "sympy__sympy-21612", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [98, 0], "error": null}
+{"instance_id": "sympy__sympy-21612", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [98, 0], "error": null}
+{"instance_id": "sympy__sympy-21612", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [98, 0], "error": null}
+{"instance_id": "sympy__sympy-21612", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-21612", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [98, 0], "error": null}
+{"instance_id": "django__django-11620", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-11620", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [66, 0], "error": null}
+{"instance_id": "django__django-11620", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [66, 0], "error": null}
+{"instance_id": "django__django-11620", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [66, 0], "error": null}
+{"instance_id": "django__django-15781", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-11620", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [66, 0], "error": null}
+{"instance_id": "django__django-11620", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [66, 0], "error": null}
+{"instance_id": "django__django-15781", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-15781", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-15781", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [43, 0], "error": null}
+{"instance_id": "django__django-15781", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [43, 0], "error": null}
+{"instance_id": "sympy__sympy-12236", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-15781", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [43, 0], "error": null}
+{"instance_id": "sympy__sympy-12236", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [133, 0], "error": null}
+{"instance_id": "sympy__sympy-12236", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [133, 0], "error": null}
+{"instance_id": "sympy__sympy-12236", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [133, 0], "error": null}
+{"instance_id": "sympy__sympy-12236", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-12236", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [133, 0], "error": null}
+{"instance_id": "sympy__sympy-18698", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-18698", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-18698", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "pytest-dev__pytest-7168", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [10, 1], "p2p": [0, 0], "error": null}
+{"instance_id": "sympy__sympy-18698", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-18698", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-18698", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [147, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7168", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [10, 1], "p2p": [0, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7168", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [11, 0], "p2p": [0, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7168", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [10, 1], "p2p": [0, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7168", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [8, 3], "p2p": [0, 0], "error": null}
+{"instance_id": "django__django-12700", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [77, 0], "error": null}
+{"instance_id": "django__django-12700", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [77, 0], "error": null}
+{"instance_id": "django__django-12700", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [77, 0], "error": null}
+{"instance_id": "django__django-12700", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [77, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-7168", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "django__django-12700", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [77, 0], "error": null}
+{"instance_id": "django__django-12700", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [77, 0], "error": null}
+{"instance_id": "django__django-13933", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [19, 0], "error": null}
+{"instance_id": "django__django-13933", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [19, 0], "error": null}
+{"instance_id": "django__django-13933", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [19, 0], "error": null}
+{"instance_id": "django__django-13933", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [19, 0], "error": null}
+{"instance_id": "django__django-13933", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [19, 0], "error": null}
+{"instance_id": "django__django-13933", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [19, 0], "error": null}
+{"instance_id": "pydata__xarray-5131", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [10, 0], "p2p": [24, 0], "error": null}
+{"instance_id": "pydata__xarray-5131", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [10, 0], "p2p": [24, 0], "error": null}
+{"instance_id": "pydata__xarray-5131", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [10, 0], "p2p": [24, 0], "error": null}
+{"instance_id": "pydata__xarray-5131", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [10, 0], "p2p": [24, 0], "error": null}
+{"instance_id": "pydata__xarray-5131", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [10, 0], "p2p": [24, 0], "error": null}
+{"instance_id": "pydata__xarray-5131", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [10, 0], "p2p": [24, 0], "error": null}
+{"instance_id": "sympy__sympy-12481", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [7, 0], "error": null}
+{"instance_id": "sympy__sympy-12481", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [7, 0], "error": null}
+{"instance_id": "sympy__sympy-12481", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [7, 0], "error": null}
+{"instance_id": "sympy__sympy-12481", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [7, 0], "error": null}
+{"instance_id": "sympy__sympy-12481", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [7, 0], "error": null}
+{"instance_id": "sympy__sympy-12481", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [7, 0], "error": null}
+{"instance_id": "django__django-15213", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [3, 0], "p2p": [71, 0], "error": null}
+{"instance_id": "django__django-15213", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "django__django-15213", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-22005", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "django__django-15213", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 3], "p2p": [70, 1], "error": null}
+{"instance_id": "django__django-15213", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 3], "p2p": [71, 0], "error": null}
+{"instance_id": "sympy__sympy-22005", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [2, 0], "error": null}
+{"instance_id": "django__django-15213", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 3], "p2p": [71, 0], "error": null}
+{"instance_id": "sympy__sympy-22005", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-22005", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-22005", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "sympy__sympy-22005", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [2, 0], "error": null}
+{"instance_id": "astropy__astropy-14182", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "astropy__astropy-14182", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "astropy__astropy-14182", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-15308", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-15308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [119, 1], "error": null}
+{"instance_id": "sympy__sympy-15308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "astropy__astropy-14182", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "astropy__astropy-14182", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "sympy__sympy-15308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-15308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "sympy__sympy-15308", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [120, 0], "error": null}
+{"instance_id": "astropy__astropy-14182", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [9, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-5227", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [3, 0], "p2p": [34, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-5227", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [3, 0], "p2p": [34, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-5227", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [3, 0], "p2p": [34, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-5227", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [3, 0], "p2p": [34, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-5227", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [3, 0], "p2p": [34, 0], "error": null}
+{"instance_id": "pytest-dev__pytest-5227", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [3, 0], "p2p": [34, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23964", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [16, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23964", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [16, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23964", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [16, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23964", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [16, 0], "error": null}
+{"instance_id": "django__django-17087", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23964", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [16, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-23964", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [16, 0], "error": null}
+{"instance_id": "django__django-17087", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "django__django-17087", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "django__django-17087", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "django__django-17087", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "sympy__sympy-16503", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-16503", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [121, 0], "error": null}
+{"instance_id": "sympy__sympy-16503", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-16503", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "sympy__sympy-16503", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "patch did not apply"}
+{"instance_id": "django__django-17087", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [53, 0], "error": null}
+{"instance_id": "sympy__sympy-16503", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [121, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25079", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [253, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25079", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 1], "p2p": [253, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25079", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": null, "p2p": null, "error": "empty patch"}
+{"instance_id": "matplotlib__matplotlib-25079", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 1], "p2p": [253, 0], "error": null}
+{"instance_id": "django__django-14016", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [13, 0], "error": null}
+{"instance_id": "django__django-14016", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [2, 0], "p2p": [13, 0], "error": null}
+{"instance_id": "django__django-14016", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [2, 0], "p2p": [13, 0], "error": null}
+{"instance_id": "django__django-14016", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [13, 0], "error": null}
+{"instance_id": "matplotlib__matplotlib-25079", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 1], "p2p": [249, 4], "error": null}
+{"instance_id": "matplotlib__matplotlib-25079", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 1], "p2p": [253, 0], "error": null}
+{"instance_id": "django__django-14016", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [1, 1], "p2p": [12, 1], "error": null}
+{"instance_id": "django__django-14016", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [2, 0], "p2p": [13, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-6506", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [6, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-6506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": false, "f2p": [0, 2], "p2p": [6, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-6506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": false, "f2p": [0, 2], "p2p": [6, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-6506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": false, "f2p": [0, 2], "p2p": [6, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-6506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 2], "p2p": [6, 0], "error": null}
+{"instance_id": "pylint-dev__pylint-6506", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": false, "f2p": [0, 2], "p2p": [6, 0], "error": null}
+{"instance_id": "django__django-15902", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [112, 0], "error": null}
+{"instance_id": "django__django-15902", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [112, 0], "error": null}
+{"instance_id": "django__django-15902", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [112, 0], "error": null}
+{"instance_id": "django__django-15902", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": false, "f2p": [0, 1], "p2p": [112, 0], "error": null}
+{"instance_id": "django__django-15902", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [112, 0], "error": null}
+{"instance_id": "django__django-15902", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [112, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-14894", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [85, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-14894", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [85, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-14894", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [85, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-14894", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [85, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-14894", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [85, 0], "error": null}
+{"instance_id": "scikit-learn__scikit-learn-14894", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [85, 0], "error": null}
+{"instance_id": "django__django-16139", "model": "anthropic/claude-haiku-5.5", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [86, 0], "error": null}
+{"instance_id": "django__django-16139", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 1, "resolved": true, "f2p": [1, 0], "p2p": [86, 0], "error": null}
+{"instance_id": "django__django-16139", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 0, "resolved": true, "f2p": [1, 0], "p2p": [86, 0], "error": null}
+{"instance_id": "django__django-16139", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 2, "resolved": true, "f2p": [1, 0], "p2p": [86, 0], "error": null}
+{"instance_id": "django__django-16139", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 3, "resolved": true, "f2p": [1, 0], "p2p": [86, 0], "error": null}
+{"instance_id": "django__django-16139", "model": "qwen/qwen3-coder-30b-a3b-instruct", "sample": 4, "resolved": true, "f2p": [1, 0], "p2p": [86, 0], "error": null}
