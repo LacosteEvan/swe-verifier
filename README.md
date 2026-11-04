@@ -7,7 +7,7 @@ random pick and an oracle.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/selection-dark.png">
-  <img alt="Issues resolved by the selected patch, for each way of picking one of five Qwen3-Coder candidates: a random pick resolves 42.8%, the agent's own tests 48.9%, a model on trajectory features 49.0%, a Claude Haiku 5.5 judge 51.0%, a Claude Sonnet 5.5 judge 57.0%, which equals the oracle; Claude Haiku 5.5 alone, as the agent, resolves 69.0%" src="docs/selection-light.png">
+  <img alt="Issues resolved by the selected patch, for each way of picking one of five Qwen3-Coder candidates: a random pick resolves 42.8%, the agent's own tests 48.9%, a model on trajectory features 49.0%, a LoRA-tuned Qwen2.5-Coder 1.5B 48.0%, a Claude Haiku 5.5 judge 51.0%, a Claude Sonnet 5.5 judge 57.0%, which equals the oracle; Claude Haiku 5.5 alone, as the agent, resolves 69.0%" src="docs/selection-light.png">
 </picture>
 
 *Picking one of five patches from Qwen3-Coder 30B-A3B, an open model, on 100 issues. The bars are the share of
@@ -21,6 +21,8 @@ issues resolved by the patch each method picks; the lines are 95% bootstrap inte
 - **Signals the agent leaves for free get 40% of the way.** Whether the agent's own last test run passed
   (+6.1 points) and a logistic regression on the trajectory and patch (+6.2) need no extra model call. Majority
   vote, the usual self-consistency trick, does nothing (+0.5), even though its pooled AUC (0.765) looks good.
+  A 1.5B code model fine-tuned with LoRA to read the issue and the patch does no better (+5.2, interval
+  includes 0): 400 training candidates are not enough to learn verification.
 - **The best verifier was remembering, not verifying.** A Claude Sonnet 5.5 judge picks exactly as well as the
   oracle. In 82% of its reviews it cites "the upstream fix", sometimes the name of the hidden test: SWE-bench
   issues and their fixes are public, and a frontier judge has read them. Its score is a contaminated upper
@@ -71,6 +73,8 @@ random pick.
 | Learned: features + Haiku judge | 54.0% | +11.2 (+6.4 to +16.0) | 0.924 | 0.873 | $0.0035 |
 | LLM judge: Claude Sonnet 5.5 † | 57.0% | +14.2 (+9.8 to +19.2) | 0.997 | 0.971 | $0.0669 |
 | Learned: features + Sonnet judge † | 55.0% | +12.2 (+8.0 to +17.0) | 0.958 | 0.942 | $0.0669 |
+| Learned: LoRA verifier (Qwen2.5-Coder 1.5B) | 48.0% | +5.2 (−0.4 to +10.8) | 0.608 | 0.635 | – |
+| Learned: features + LoRA verifier | 50.0% | +7.2 (+3.2 to +11.4) | 0.690 | 0.702 | – |
 | Oracle: best of 5 by the hidden tests | 57.0% | +14.2 (+9.8 to +19.2) | 1.000 | 1.000 | – |
 | *Claude Haiku 5.5 as the agent, one attempt* | *69.0%* | | | | |
 
@@ -82,6 +86,13 @@ random pick.
 - **The features are trajectory and patch signals:** steps, whether the agent submitted or hit the limit, edits
   that failed to apply, test runs and whether the last one passed, the size of the patch, and its agreement with
   the four other candidates ([features.py](src/sweverifier/features.py)).
+- **A fine-tuned small model is not a verifier yet.** Qwen2.5-Coder 1.5B, trained with LoRA as a classifier on
+  the issue and the patch ([notebook](notebooks/verifier_lora.ipynb), on a Colab GPU), reaches an AUC
+  of 0.635 out of fold and picks 48.0%: +5.2 points, an interval that includes 0, and below the free signal
+  of the agent's own tests. Its folds range from 0.42 to 0.81 AUC: with 20 issues per fold, the score depends
+  more on which issues land in the fold than on the model. Added to the features it is worth +1
+  point. The judges get their edge from reading code they were never trained on here; the small model only
+  has 400 labelled candidates, 32 issues of which actually disagree.
 - **Features add to a weak judge, not to a strong one.** They lift the Haiku judge by 3 points and pull the
   Sonnet judge down by 2: with 500 candidates, the regression adds noise to an already near-perfect score.
 - **What the agent's tests are worth.** When the agent's last test run passed, its patch resolves the issue 50%
@@ -140,7 +151,7 @@ actual fix, merged, commit...).*
   written.
 - **So the judge rows measure memory as much as verification.** On private code, or on issues created after
   the judge's training cutoff, they would score lower. The verifiers that learn from this run only (the agent's
-  tests, the features, the LoRA verifier below) are not affected: they have never seen the fix.
+  tests, the features, the LoRA verifier) are not affected: they have never seen the fix.
 
 ## How it works
 
@@ -216,15 +227,14 @@ Models run through OpenRouter (`OPENROUTER_API_KEY` in `.env`). A paid run witho
 committed runs cost $15.71 for the agents and $7.05 for the judges, plus about $2.80 on judge replies that were
 cut off and asked again (below).
 
-## Next: a LoRA verifier
+## Next
 
-[notebooks/verifier_lora.ipynb](notebooks/verifier_lora.ipynb) trains Qwen2.5-Coder-1.5B with LoRA as a
-classifier on the issue and the patch, out of fold with the same folds, on a Colab GPU in about an hour. Its
-scores go to `results/lora_scores.jsonl`, and `make_report.py` adds it to the table and the chart. It is the
-clean counterpart of the judges: a small model that can only learn what this run shows it. Expect it to be
-limited by the data: 500 candidates, and 32 issues where the candidates disagree.
+**More data for the small verifier.** The LoRA verifier is the clean counterpart of the judges: it can only
+learn what these runs show it, so it cannot be contaminated by the upstream fix, and it is limited by data. The
+lever is more labelled candidates: the full SWE-bench (2,294 issues) or SWE-Gym's training issues, with the
+agent's trajectory added to its input.
 
-The other open question is the one section 4 raises: rerunning the comparison on issues created after the
+**Uncontaminated issues.** The open question section 4 raises: rerunning the comparison on issues created after the
 models' training cutoff ([SWE-rebench](https://huggingface.co/datasets/nebius/SWE-rebench),
 [SWE-bench Live](https://github.com/microsoft/SWE-bench-Live)), where no judge can remember the fix.
 
@@ -267,6 +277,9 @@ datasets) is described in [docs/dev-workflow.md](docs/dev-workflow.md).
   Django's environment does not have; 25 find `tests/runtests.py`. 72% of its Django attempts end without a test
   result it could read. The prompt was not changed mid-run, to keep the five samples comparable; a one-line hint
   is the obvious next experiment.
+- **A small verifier trained on 500 candidates.** The LoRA classifier learned something (AUC 0.635) but not
+  enough to pick better than the agent's own test result. Its per-fold AUC swings from 0.42 to 0.81, too unstable
+  to trust on 100 issues.
 - **Majority vote looked useful by the wrong metric.** Its pooled AUC of 0.765 is better than the trajectory
   features'. Within an issue it is 0.626, and it picks no better than chance (+0.5 points).
 - **Two issues cannot be scored offline.** The `requests` tests call the network, so their reference patches
